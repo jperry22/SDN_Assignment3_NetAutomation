@@ -1,0 +1,15 @@
+- name: SDN Assignment Three
+  hosts: all
+  gather_facts: false
+  
+  vars:
+    ansible_connection: ansible.netcommon.network_cli
+    ansible_network_os: cisco.ios.ios
+    ansible_become: yes
+    ansible_become_method: enable
+  
+  tasks:
+    - name: Change Login Banner
+      ios_config:
+        lines:
+          - banner motd ^ This is {{ inventory_hostname }}! ^
