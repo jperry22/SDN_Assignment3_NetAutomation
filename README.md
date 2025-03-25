@@ -8,7 +8,8 @@ Next create an inventory with hosts, credentials to the networking devices, and 
 ![image](https://github.com/user-attachments/assets/a3ce6e6c-9659-417a-849f-b58251ca11f0)
 
 
-image
+![image](https://github.com/user-attachments/assets/1a854732-5d79-4bc7-b96d-c37743d842e2)
+
 
 image
 
