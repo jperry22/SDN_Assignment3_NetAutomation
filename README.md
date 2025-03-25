@@ -26,14 +26,20 @@ Step Three
 
 Create a job template, this one will use the ShowIpIntBr.yml playbook and the expected outcome should be a success with the IP interfaces displaying.
 
-image
+![image](https://github.com/user-attachments/assets/1b801311-3c75-478a-8d59-7325c52145de)
 
-image
+![image](https://github.com/user-attachments/assets/05fb0633-8367-413a-b533-a119f251fd82)
+
 
 Create a workflow template for both jobs running the ShowIpIntBr.yml and configure_banner.yml playbooks. image
 
-image
+![image](https://github.com/user-attachments/assets/8bdfcbfd-ccab-4f6b-a168-1c1fde729ebf)
+
+![image](https://github.com/user-attachments/assets/ffd186e5-918b-4360-bf79-2fd9df0a5f91)
+
 
 Create a survey and enable surveys on one of the job templates. Afterwards, launch the job which should display the interfaces. image
 
-image
+![image](https://github.com/user-attachments/assets/835d4486-9e9d-4e9f-8ff8-971687677254)
+
+![image](https://github.com/user-attachments/assets/3e079827-b6a6-4f2e-8361-69e834e7f252)
