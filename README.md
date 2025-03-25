@@ -1,11 +1,13 @@
 # SDN_Assignment3_NetAutomation
 
-The first step is to create a VM to host Ansible AWX on Ubuntu 22.04 LTS. Access the AWX web panel. image
+The first step is to create a VM to host Ansible AWX on Ubuntu 22.04 LTS. Access the AWX web panel.
+
+![image](https://github.com/user-attachments/assets/a3ce6e6c-9659-417a-849f-b58251ca11f0)
+
+
 Step Two
 
 Next create an inventory with hosts, credentials to the networking devices, and a project that links back to this repository
-
-![image](https://github.com/user-attachments/assets/a3ce6e6c-9659-417a-849f-b58251ca11f0)
 
 
 ![image](https://github.com/user-attachments/assets/81a21e54-49e2-4e0d-bac8-95372fa70120)
